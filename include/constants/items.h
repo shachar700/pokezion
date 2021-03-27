@@ -123,6 +123,7 @@
 #define ITEM_DUSK_STONE 108
 #define ITEM_SHINY_STONE 109
 #define ITEM_ICE_STONE 110
+#define ITEM_TRADE_STONE 604
 // Unusable
 #define ITEM_RED_APRICORN 111
 #define ITEM_BLUE_APRICORN 112
@@ -705,7 +706,7 @@
 #define ITEM_TAPUNIUM_Z               602
 #define ITEM_ULTRANECROZIUM_Z         603
 
-#define ITEMS_COUNT 604
+#define ITEMS_COUNT 605
 #define ITEM_FIELD_ARROW ITEMS_COUNT
 
 // Range of berries given out by various NPCS
