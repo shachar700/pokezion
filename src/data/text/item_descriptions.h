@@ -511,6 +511,11 @@ static const u8 sIceStoneDesc[] = _(
     "species of Pokémon\n"
     "evolve.");
 
+static const u8 sTradeStoneDesc[] = _(
+    "Makes certain\n"
+    "species of Pokémon\n"
+    "evolve.");
+
 // Valuable items
 
 static const u8 sRedApricornDesc[] = _(

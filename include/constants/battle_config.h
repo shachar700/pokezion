@@ -176,7 +176,7 @@
 #define B_NEW_IMPACT_PALETTE            FALSE    // If set to TRUE, it updates the basic 'hit' palette.
 #define B_NEW_SURF_PARTICLE_PALETTE     FALSE    // If set to TRUE, it updates Surf's wave palette.
 
-#define B_HIDE_HEALTHBOXES_DURING_ANIMS TRUE    // If set to TRUE, hides healthboxes during move animations.
+#define B_HIDE_HEALTHBOXES_DURING_ANIMS FALSE    // If set to TRUE, hides healthboxes during move animations.
 #define B_TERRAIN_BG_CHANGE             TRUE    // If set to TRUE, terrain moves permanently change the default battle background until the effect fades.
 #define B_ENABLE_DEBUG                  TRUE    // If set to TRUE, enables a debug menu to use in battles by pressing the Select button.
 

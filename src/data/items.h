@@ -1326,6 +1326,17 @@ const struct Item gItems[] =
         .fieldUseFunc = ItemUseOutOfBattle_EvolutionStone,
     },
 
+    [ITEM_TRADE_STONE] =
+    {
+        .name = _("Trade Stone"),
+        .itemId = ITEM_TRADE_STONE,
+        .price = 3000,
+        .description = sTradeStoneDesc,
+        .pocket = POCKET_ITEMS,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_EvolutionStone,
+    },
+
 // Valuable items
 
     [ITEM_RED_APRICORN] =

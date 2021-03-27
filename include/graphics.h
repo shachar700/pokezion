@@ -7800,6 +7800,8 @@ extern const u32 gItemIcon_BigMalasada[];
 extern const u32 gItemIconPalette_BigMalasada[];
 extern const u32 gItemIcon_IceStone[];
 extern const u32 gItemIconPalette_IceStone[];
+extern const u32 gItemIcon_TradeStone[];
+extern const u32 gItemIconPalette_TradeStone[];
 extern const u32 gItemIcon_RedNectar[];
 extern const u32 gItemIconPalette_RedNectar[];
 extern const u32 gItemIcon_YellowNectar[];

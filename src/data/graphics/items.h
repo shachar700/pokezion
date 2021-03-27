@@ -1454,6 +1454,9 @@ const u32 gItemIconPalette_BigMalasada[] = INCBIN_U32("graphics/items/icon_palet
 const u32 gItemIcon_IceStone[] = INCBIN_U32("graphics/items/icons/ice_stone.4bpp.lz");
 const u32 gItemIconPalette_IceStone[] = INCBIN_U32("graphics/items/icon_palettes/ice_stone.gbapal.lz");
 
+const u32 gItemIcon_TradeStone[] = INCBIN_U32("graphics/items/icons/trade_stone.4bpp.lz");
+const u32 gItemIconPalette_TradeStone[] = INCBIN_U32("graphics/items/icon_palettes/trade_stone.gbapal.lz");
+
 const u32 gItemIcon_RedNectar[] = INCBIN_U32("graphics/items/icons/red_nectar.4bpp.lz");
 const u32 gItemIconPalette_RedNectar[] = INCBIN_U32("graphics/items/icon_palettes/red_nectar.gbapal.lz");
 

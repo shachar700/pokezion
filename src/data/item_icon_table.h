@@ -569,6 +569,7 @@ const u32 *const gItemIconTable[][2] =
     [ITEM_ADRENALINE_ORB] = {gItemIcon_AdrenalineOrb, gItemIconPalette_AdrenalineOrb},
     [ITEM_BIG_MALASADA] = {gItemIcon_BigMalasada, gItemIconPalette_BigMalasada},
     [ITEM_ICE_STONE] = {gItemIcon_IceStone, gItemIconPalette_IceStone},
+    [ITEM_TRADE_STONE] = {gItemIcon_TradeStone, gItemIconPalette_TradeStone},
     [ITEM_RED_NECTAR] = {gItemIcon_RedNectar, gItemIconPalette_RedNectar},
     [ITEM_YELLOW_NECTAR] = {gItemIcon_YellowNectar, gItemIconPalette_YellowNectar},
     [ITEM_PINK_NECTAR] = {gItemIcon_PinkNectar, gItemIconPalette_PinkNectar},
